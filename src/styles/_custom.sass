@@ -1,19 +1,91 @@
-.banner-principal-decorativo
-  &-1
-    animation: float1 3.5s ease-in-out infinite alternate
+.banner-interno__fondo
+  background-image: url("../assets/curso/portada/1.png") !important    
+
+.banner-interno__titulo__icono
+  background-color: white !important
+.banner-interno__titulo h2
+  color: white !important  
+
+.img-a 
+  display: block
+  margin: auto
+
+.img-t
+  width: auto
+  height: auto 
+
+.bg-degrade
+  background: #ABE6DA
+.tarjeta-foto-hover
+  position: relative
+  overflow: hidden
+  &:hover
+    .tarjeta-foto-hover__tarjeta
+      transform: translateY(0%)
+
+  &__titulo
     position: absolute
-    top: 40%
-    right: 50%
-  &-2
-    animation: float1 2.8s ease-in-out infinite alternate
+    bottom: 0
+    width: 100%
+  &__tarjeta
+    transition: transform 0.3s ease-in-out
     position: absolute
-    top: 51%
-    right: 30%
+    bottom: 0
+    width: 100%
+    height: 100%
+    transform: translateY(100%) 
 
+.bghover
+  background-color: #ABE6DA 
 
-@keyframes float1
-  0%
-    transform: translateY(20px)
+.bg1
+  position: relative
+  .row, figure, p, h3, .titulo-sexto.color-primario
+    position: relative
+  &::before
+    content: ""
+    position: absolute
+    margin-left: -48px
+    margin-top: 0
+    width: calc( 100% + 96px )
+    height: 100%       
+    background-image: url('../assets/curso/temas/img4.png')
+    background-size: 100% auto  
+    background-repeat: no-repeat
+    background-position: center 
 
-  100%
-    transform: translateY(0px)
+.bg2
+  background-color: #F3F4DB
+
+.bg3
+  background-color: #E1ECEA
+  border-radius: 15px
+
+.slyder-b__img
+  border-radius: 0px !important
+
+.cajon.color-primario::before
+  background-color: #194D33
+
+.cajon.color-primario
+  background-color: #F3F4DB  
+
+.bg4
+  background-color: #E8E8E8
+  
+.crd
+  width: 100%
+  position: relative
+  &--100
+    height: 100%        
+
+.horizontal-scroll
+  align-items: stretch !important
+
+.img-infografica__item__numero
+  color: $color-sistema-texto !important
+
+.tarjeta.color-acento-contenido
+  background-color: #E0F6F1
+  *
+    color: $color-sistema-texto !important
