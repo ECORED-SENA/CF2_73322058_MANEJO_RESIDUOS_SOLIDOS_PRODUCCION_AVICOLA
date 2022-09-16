@@ -1,7 +1,7 @@
 export default {
   global: {
     componenteFormativo:
-      'Manejo y disposición de residuos de la producción avícola.',
+      'Manejo y disposición de residuos de la producción avícola',
     descripcionCurso:
       'Mediante este componente, el aprendiz se afianzará en el manejo y disposición de residuos de la producción avícola. Ampliará conocimientos y conceptos sobre fuentes generadoras, clasificación, disposición, procedimientos, equipos e instalaciones, identificación de impactos ambientales y plan de gestión de residuos sólidos. Así mismo profundizará en elementos del proceso de seguimiento y evaluación a la gestión de los residuos en favor de procesos de certificación.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
@@ -60,21 +60,21 @@ export default {
         nombreRuta: 'tema4',
         icono: 'far fa-file-alt',
         numero: '4',
-        titulo: 'Identificación de impactos ambientales',
+        titulo: 'Plan de gestión de residuos sólidos',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema5',
         icono: 'far fa-file-alt',
         numero: '5',
-        titulo: 'Identificación de impactos ambientales',
+        titulo: 'Documentación del plan de gestión de residuos sólidos',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema6',
         icono: 'far fa-file-alt',
         numero: '6',
-        titulo: 'Identificación de impactos ambientales',
+        titulo: 'Seguimiento y evaluación',
         desarrolloContenidos: true,
       },
     ],
@@ -328,7 +328,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Mayra Alejandra Alvarez Diaz',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
