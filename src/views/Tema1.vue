@@ -8,7 +8,7 @@
       h1 Residuos en la producción avícola
       
     .row.justify-content-center.align-items-center.mb-5           
-      .col-lg-6
+      .col-lg-6.media
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img1.png', alt='')      
       .col-lg-6
         p(data-aos="fade-down") Comprendidos los residuos como todos aquellos materiales que han cumplido alguna función o condición de uso, se hace indispensable que su disposición final, se realice tanto en los lugares adecuados como en los tiempos pertinentes y de las maneras más proporcionadas a su naturaleza, clasificación y cantidad. Al tener en cuenta todo ello, se minimizarán los posibles riesgos que afectarían al medio ambiente, a los humanos y, en ocasiones, al mismo proceso productivo.      
