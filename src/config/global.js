@@ -35,9 +35,9 @@ export default {
           },
           {
             icono: 'far fa-file-alt',
-            numero: '2.1',
+            numero: '1.2',
             titulo: 'Clasificación',
-            hash: 't_2_1',
+            hash: 't_1_2',
           },
         ],
       },

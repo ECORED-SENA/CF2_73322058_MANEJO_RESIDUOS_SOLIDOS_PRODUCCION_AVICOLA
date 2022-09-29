@@ -8,7 +8,7 @@
       h1 Identificación de impactos ambientales
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-6
+      .col-lg-6.mb-md-5.mb-sm-3
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img15.png', alt='')    
       .col-lg-6
         p(data-aos="fade-down") Un impacto ambiental es una alteración del medio ambiente, ocasionada o provocada por la intervención directa o indirecta de una actividad humana. La producción avícola, desde luego, en toda su cadena, puede incidir en el funcionamiento normal de algunos ecosistemas, del aire, de las fuentes de agua que rodean o transitan la granja, de los espacios de habitación de personas que colaboran en la finca, entre otras.

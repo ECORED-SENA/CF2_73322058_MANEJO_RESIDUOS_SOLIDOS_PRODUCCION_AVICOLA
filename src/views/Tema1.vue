@@ -15,28 +15,30 @@
         p(data-aos="fade-down") En el sector avícola, los sitios donde más suelen generarse residuos son las plantas de beneficio, las granjas de ponedoras o de pollo de engorde. Para disponer de ellos, se requiere actuar de acuerdo a las normas técnicas y condiciones del entorno. 
     .bg1        
       p(data-aos="fade-down").mb-5 Todos los manejos sobre residuos se deben realizar, idealmente, bajo mecanismos establecidos por la empresa avícola y en cumplimento de los estándares existentes para ello. Vale la pena, entonces, conocer la distinción de cada residuo:
-      .row.justify-content-center.mb-4.mb-md-5(data-aos="fade-down")
-        .col-lg-4.mb-3
-          .tarjeta.tarjeta-foto-hover.h-100
-            .tarjeta-foto-hover__img: img(src='@/assets/curso/temas/img2.png')
-            .tarjeta-foto-hover__titulo.d-flex.justify-content-center.align-items-center.p-3.bghover
-              h5.text-center.mb-0 Residuo sólido aprovechable
-            .tarjeta-foto-hover__tarjeta.bg-degrade.d-flex.align-items-center.justify-content-center
-              .p-4
-                h5 Residuo sólido aprovechable
-                p.mb-0 Es cualquier residuo sólido sin valor alguno a la planta, pero si genera un beneficio para otro proceso productivo al ser reincorporado. Por ejemplo toda clase de papel, plástico, metal, vidrio o madera.
-        .col-lg-4.mb-3
-          .tarjeta.tarjeta-foto-hover.h-100
-            .tarjeta-foto-hover__img: img(src='@/assets/curso/temas/img3.png')
-            .tarjeta-foto-hover__titulo.d-flex.justify-content-center.align-items-center.p-3.bghover
-              h5.text-center.mb-0 Residuo sólido no aprovechable
-            .tarjeta-foto-hover__tarjeta.bg-degrade.d-flex.align-items-center.justify-content-center
-              .p-4
-                h5 Residuo sólido no aprovechable
-                p.mb-0 Producto sólido o semisólido de origen inorgánico o orgánico y que no es aprovechable o reutilizable en un proceso productivo, sin valor comercial y el cual es necesario realizar un tratamiento o disposición específica, por ejemplo las envolturas, material vegetal, papel higiénico, papel parafinado, icopor o servilletas, etc. 
+      .row.justify-content-center
+        .col-lg-10      
+          .row.justify-content-center.mb-4.mb-md-5(data-aos="fade-down")
+            .col-lg-6.col-md-10.mb-3
+              .tarjeta.tarjeta-foto-hover.h-100
+                .tarjeta-foto-hover__img: img(src='@/assets/curso/temas/img2.png')
+                .tarjeta-foto-hover__titulo.d-flex.justify-content-center.align-items-center.p-3.bghover
+                  h5.text-center.mb-0 Residuo sólido aprovechable
+                .tarjeta-foto-hover__tarjeta.bg-degrade.d-flex.align-items-center.justify-content-center
+                  .p-4
+                    h5 Residuo sólido aprovechable
+                    p.mb-0 Es cualquier residuo sólido sin valor alguno a la planta, pero si genera un beneficio para otro proceso productivo al ser reincorporado. Por ejemplo toda clase de papel, plástico, metal, vidrio o madera.
+            .col-lg-6.col-md-10.mb-3
+              .tarjeta.tarjeta-foto-hover.h-100
+                .tarjeta-foto-hover__img: img(src='@/assets/curso/temas/img3.png')
+                .tarjeta-foto-hover__titulo.d-flex.justify-content-center.align-items-center.p-3.bghover
+                  h5.text-center.mb-0 Residuo sólido no aprovechable
+                .tarjeta-foto-hover__tarjeta.bg-degrade.d-flex.align-items-center.justify-content-center
+                  .p-4
+                    h5 Residuo sólido no aprovechable
+                    p.mb-0 Producto sólido o semisólido de origen inorgánico o orgánico y que no es aprovechable o reutilizable en un proceso productivo, sin valor comercial y el cual es necesario realizar un tratamiento o disposición específica, por ejemplo las envolturas, material vegetal, papel higiénico, papel parafinado, icopor o servilletas, etc. 
 
       .row.justify-content-center.align-items-center.mb-5           
-        .col-lg-5
+        .col-lg-5.col-md-10.mb-md-5.col-sm-10.mb-sm-3
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img5.png', alt='')                       
         .col-lg-5
           .bg2.p-4.mb-3(data-aos="flip-down")
@@ -159,7 +161,7 @@
       h2 1.2   Clasificación
 
     .row.justify-content-center.align-items-center.mb-5           
-      .col-lg-6
+      .col-lg-6.mb-md-5.mb-sm-3
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img7.png', alt='')      
       .col-lg-6
         p(data-aos="fade-down") En la avicultura es necesario clasificar todos los residuos de manera organizada; de acuerdo con su función o característica, se clasifican en tres ramas: orgánicos, convencionales no peligrosos y residuos peligrosos. La variable de clasificación depende del uso y manejo que se les dé, al momento de recolectar y disponer.
