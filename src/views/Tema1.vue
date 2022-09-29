@@ -38,7 +38,7 @@
                     p.mb-0 Producto sólido o semisólido de origen inorgánico o orgánico y que no es aprovechable o reutilizable en un proceso productivo, sin valor comercial y el cual es necesario realizar un tratamiento o disposición específica, por ejemplo las envolturas, material vegetal, papel higiénico, papel parafinado, icopor o servilletas, etc. 
 
       .row.justify-content-center.align-items-center.mb-5           
-        .col-lg-5.col-md-10.mb-md-5.col-sm-10.mb-sm-3
+        .col-lg-5.col-md-10.mb-md-5.col-sm-10.mb-sm-3.media
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img5.png', alt='')                       
         .col-lg-5
           .bg2.p-4.mb-3(data-aos="flip-down")
@@ -161,7 +161,7 @@
       h2 1.2   Clasificación
 
     .row.justify-content-center.align-items-center.mb-5           
-      .col-lg-6.mb-md-5.mb-sm-3
+      .col-lg-6.mb-md-5.mb-sm-3.media
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img7.png', alt='')      
       .col-lg-6
         p(data-aos="fade-down") En la avicultura es necesario clasificar todos los residuos de manera organizada; de acuerdo con su función o característica, se clasifican en tres ramas: orgánicos, convencionales no peligrosos y residuos peligrosos. La variable de clasificación depende del uso y manejo que se les dé, al momento de recolectar y disponer.
