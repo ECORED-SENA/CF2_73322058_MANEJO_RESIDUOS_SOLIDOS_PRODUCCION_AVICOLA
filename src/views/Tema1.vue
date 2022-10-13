@@ -69,7 +69,7 @@
       table
         thead
           tr
-            th Entradas Prima
+            th Entradas Primas
             th 
             th Residuo
         tbody

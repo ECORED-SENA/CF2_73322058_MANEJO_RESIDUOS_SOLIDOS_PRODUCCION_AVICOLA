@@ -15,7 +15,7 @@
       .col-lg-12(data-aos="fade-left")     
         figure
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/a6Z5giATD-w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)   
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/pedXzm7J7Dc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)   
 </template>
 
 <script>

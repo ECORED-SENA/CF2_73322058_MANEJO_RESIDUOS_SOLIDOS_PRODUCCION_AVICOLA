@@ -207,7 +207,7 @@ export default {
   referencias: [
     {
       referencia:
-        'Fondo Nacional Avícola (2014). Guía Ambiental para el Subsector Avícola. <i>FENAVI</i>.',
+        'Fondo Nacional Avícola (2014). Cartilla - normativa ambiental en el sector Avícola. <i>FENAVI</i>.',
       link:
         'https://fenavi.org/publicaciones-programa-ambiental/cartillas/cartilla-normativa-ambiental-en-el-sector-avicola/#cartilla-normativa-ambiental/3',
     },
@@ -340,7 +340,7 @@ export default {
       },
       {
         nombre: 'Miguel Guerrero Gutiérrez',
-        cargo: 'PIlustración',
+        cargo: 'Ilustración',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
@@ -389,17 +389,12 @@ export default {
     ],
     gestoresRepositorio: [
       {
-        nombre: 'Álvaro Andrés Angarita Ramirez',
-        cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios - Regional Tolima',
-      },
-      {
-        nombre: 'Daniel Felipe Varón Molina',
-        cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios - Regional Tolima',
-      },
-      {
         nombre: 'Milady Tatiana Villamil Castellanos',
+        cargo: 'Validación y vinculación en plataforma LMS',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
+      },
+      {
+        nombre: 'Jhon Fredy Rodriguez Castiblanco',
         cargo: 'Validación y vinculación en plataforma LMS',
         centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },

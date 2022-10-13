@@ -144,6 +144,9 @@
             p.mb-0 Procesos de contratación de recurso humano. 
 
     p(data-aos="fade-down").mb-5 En el siguiente esquema, identifique los pasos clave para el establecimiento de metas o indicadores, en la granja avícola (ver figura 1):
+    .titulo-sexto.color-acento-contenido(data-aos="fade-left") 
+      h5 Figura 1
+      span Pasos para establecer metas o indicadores    
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-8
         ImagenInfografica.color-acento-botones.mb-5

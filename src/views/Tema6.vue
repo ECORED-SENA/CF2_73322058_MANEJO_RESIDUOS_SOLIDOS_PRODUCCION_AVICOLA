@@ -47,7 +47,7 @@
             td            
             td 
           tr.text-center
-            td Residuos Solidos            
+            td Residuos Sólidos            
             td Realiza PGIRS de acuerdo con la normatividad y el plan de gestión          
             td            
             td            
